@@ -6,7 +6,7 @@
 
 1. Clone the github repository using **git clone** command:
 
-`git clone https://github.com/saifsiddque/Assignment.git`
+git clone `https://github.com/saifsiddque/Assignment.git`
 
 You can also find the https address by clicking the **Code** (green colored) button.
 
